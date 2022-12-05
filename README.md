@@ -10,6 +10,9 @@ Software used: fusion 360
 <img src="https://github.com/prasanna892/iPhone-X-rubber-cover-design/blob/main/iPhoneX%20cover%20v1.png">
 #### iphone x with cover
 <img src="https://github.com/prasanna892/iPhone-X-rubber-cover-design/blob/main/iPhoneX%20with%20cover%20v1.png">
+#### GIF
+<img src="https://github.com/prasanna892/iPhone-X-rubber-cover-design/blob/main/out%20gif.gif">
+
 
 ## Contact 
 
